@@ -13,7 +13,7 @@ You can view the live app here: [Weather App](https://weather-app-akki.netlify.a
 - **Responsive Design**: Works on both desktop and mobile devices.
 - **Dynamic Background**: The background changes dynamically based on the weather conditions (e.g., sunny, cloudy, rainy, etc.).
 
-## How to Use
+## How to Use 
 
 1. Open the [live demo link](https://weather-app-akki.netlify.app/).
 2. Enter the name of the city in the search bar.
